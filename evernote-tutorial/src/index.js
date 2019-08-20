@@ -19,7 +19,7 @@ firebase.initializeApp({
     appId: "1:28016483617:web:7610d02286811c75"
   });
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('evernote-container'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
